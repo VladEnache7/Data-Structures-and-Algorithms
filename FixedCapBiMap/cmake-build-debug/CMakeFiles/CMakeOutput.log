@@ -1,0 +1,55 @@
+The system is: Linux - 5.10.16.3-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/3.23.0-rc2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/3.23.0-rc2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_e5215/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_e5215.dir/build.make CMakeFiles/cmTC_e5215.dir/build
+gmake[1]: Entering directory '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e5215.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e5215.dir/testCCompiler.c.o -c "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_e5215
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5215.dir/link.txt --verbose=1
+/usr/bin/cc CMakeFiles/cmTC_e5215.dir/testCCompiler.c.o -o cmTC_e5215 
+gmake[1]: Leaving directory '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9f23d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9f23d.dir/build.make CMakeFiles/cmTC_9f23d.dir/build
+gmake[1]: Entering directory '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9f23d.dir/testCXXCompiler.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_9f23d.dir/testCXXCompiler.cxx.o -c "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_9f23d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f23d.dir/link.txt --verbose=1
+/usr/bin/c++ CMakeFiles/cmTC_9f23d.dir/testCXXCompiler.cxx.o -o cmTC_9f23d 
+gmake[1]: Leaving directory '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+

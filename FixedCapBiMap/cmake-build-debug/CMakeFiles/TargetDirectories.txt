@@ -1,0 +1,3 @@
+/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/FixedCapBiMap.dir
+/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

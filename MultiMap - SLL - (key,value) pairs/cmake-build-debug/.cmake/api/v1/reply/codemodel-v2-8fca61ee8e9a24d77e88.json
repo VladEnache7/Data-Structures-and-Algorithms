@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultiMap___SLL____key_value__pairs",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiMap___SLL____key_value__pairs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiMap___SLL____key_value__pairs-Debug-42cb31037766fec5b36e.json",
+					"name" : "MultiMap___SLL____key_value__pairs",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug",
+		"source" : "/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

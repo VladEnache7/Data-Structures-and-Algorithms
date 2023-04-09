@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FixedCapBiMap"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FixedCapBiMap">
+				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/FixedCapBiMap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/."/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 FixedCapBiMap"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FixedCapBiMap/fast">
+				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug/FixedCapBiMap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/."/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 FixedCapBiMap/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/FixedCapBiMap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/App.cpp">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/ExtendedTest.cpp">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/ExtendedTest.h">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/FixedCapBiMap.cpp">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/FixedCapBiMap.h">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/FixedCapBiMapIterator.cpp">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/FixedCapBiMapIterator.h">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/ShortTest.cpp">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/ShortTest.h">
+			<Option target="FixedCapBiMap"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/FixedCapBiMap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
