@@ -1,4 +1,4 @@
-C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug' && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs' -B '/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug'"
+C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug' && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs' -B '/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug'"
 -- The C compiler identification is GNU 10.2.1
 -- The CXX compiler identification is GNU 10.2.1
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CL
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug
+-- Build files have been written to: /mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug

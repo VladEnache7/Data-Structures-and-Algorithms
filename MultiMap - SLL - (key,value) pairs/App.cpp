@@ -12,7 +12,7 @@ int main() {
 
 	testAll();
 	testAllExtended();
-	cout << "End" << endl;
+	cout << "Yeey, all test run correctly!!" << endl;
 	system("pause");
 
 }

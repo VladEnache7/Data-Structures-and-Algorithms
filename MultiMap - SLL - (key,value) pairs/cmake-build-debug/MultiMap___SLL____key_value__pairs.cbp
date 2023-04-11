@@ -8,23 +8,23 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MultiMap___SLL____key_value__pairs">
-				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug/MultiMap___SLL____key_value__pairs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
+				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug/MultiMap___SLL____key_value__pairs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/."/>
+					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/."/>
 					<Add directory="/usr/include/c++/10"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
 					<Add directory="/usr/include/c++/10/backward"/>
@@ -34,20 +34,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MultiMap___SLL____key_value__pairs"/>
-					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MultiMap___SLL____key_value__pairs"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MultiMap___SLL____key_value__pairs/fast">
-				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug/MultiMap___SLL____key_value__pairs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
+				<Option output="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug/MultiMap___SLL____key_value__pairs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/."/>
+					<Add directory="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/."/>
 					<Add directory="/usr/include/c++/10"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
 					<Add directory="/usr/include/c++/10/backward"/>
@@ -57,61 +57,61 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MultiMap___SLL____key_value__pairs/fast"/>
-					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 MultiMap___SLL____key_value__pairs/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Structuri\ de\ date\ si\ algoritmi/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/Admin/Documents/GitHub/Data\ Structures\ and\ Algorithms/MultiMap\ -\ SLL\ -\ (key,value)\ pairs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/App.cpp">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/App.cpp">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/ExtendedTest.cpp">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/ExtendedTest.cpp">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/ExtendedTest.h">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/ExtendedTest.h">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/MultiMap.cpp">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/MultiMap.cpp">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/MultiMap.h">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/MultiMap.h">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/MultiMapIterator.cpp">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/MultiMapIterator.cpp">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/MultiMapIterator.h">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/MultiMapIterator.h">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/ShortTest.cpp">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/ShortTest.cpp">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/ShortTest.h">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/ShortTest.h">
 			<Option target="MultiMap___SLL____key_value__pairs"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/CMakeLists.txt">
+		<Unit filename="/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

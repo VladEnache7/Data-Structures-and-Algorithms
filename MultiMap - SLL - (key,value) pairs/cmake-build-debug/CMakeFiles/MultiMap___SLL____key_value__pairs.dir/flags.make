@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/mnt/c/Users/Admin/Documents/GitHub/Structuri de date si algoritmi/MultiMap - SLL - (key,value) pairs/."
+CXX_INCLUDES = -I"/mnt/c/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MultiMap - SLL - (key,value) pairs/."
 
 CXX_FLAGS = -g
 
