@@ -24,6 +24,15 @@ typedef struct SLL{
 }SLL;
 
 
+// suplimentary requirements:
+// keeps int the MultiMap only those pairs whose key respects the given condition
+// void filter(Condition cond);
+
+// where Condition is a function takes as parameter a TKey and returns a bool
+// typedef bool(*Condition)(TKey);
+
+typedef bool(*Condition)(TKey);
+
 class MultiMap
 {
 	friend class MultiMapIterator;
@@ -58,6 +67,7 @@ public:
 	//destructor
 	~MultiMap();
 
-
+    // for suplimentary requirements
+    void filter(Condition cond);
 };
 

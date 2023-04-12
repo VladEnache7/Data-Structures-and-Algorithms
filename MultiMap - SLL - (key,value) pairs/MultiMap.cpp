@@ -92,3 +92,31 @@ MultiMap::~MultiMap() {
     }
 }
 
+void MultiMap::filter(Condition cond) {
+    SLLNode* currentNode = linkedList.head;
+    SLLNode* previousNode = nullptr;
+    while (currentNode != nullptr){
+        if (!cond(currentNode->data.first)){
+            if (previousNode == nullptr){
+                linkedList.head = currentNode->next;
+                SLLNode* nodeToBeDeleted = currentNode;
+                currentNode = currentNode->next;
+                delete nodeToBeDeleted;
+                sizeMap--;
+            }
+            else{
+                previousNode->next = currentNode->next;
+                SLLNode* nodeToBeDeleted = currentNode;
+                currentNode = currentNode->next;
+                delete nodeToBeDeleted;
+                sizeMap--;
+            }
+        }
+        else{
+            previousNode = currentNode;
+            currentNode = currentNode->next;
+        }
+    }
+
+}
+
