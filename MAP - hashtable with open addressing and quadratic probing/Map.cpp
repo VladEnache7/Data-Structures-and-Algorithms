@@ -3,7 +3,7 @@
 #include "MapIterator.h"
 
 Map::Map() {
-	this->capacity = 16;
+	this->capacity = 1024;
     this->nrElems = 0;
     this->elems = new pair[this->capacity];
 }
@@ -46,8 +46,6 @@ void Map::resize() {
     delete[] this->elems;
     this->elems = newElems;
 }
-
-
 
 
 TValue Map::add(TKey key, TValue newValue){
@@ -94,17 +92,18 @@ TValue Map::search(TKey key) const{
 
 TValue Map::remove(TKey key){
 	// if the element is in the map, remove it and return its value
-    int i = 0;
-    int index = this->hash(key, i);
-    while(this->elems[index].occupied && this->elems[index].key != key) {
-        i++;
-        index = this->hash(key, i);
-    }
-    if(this->elems[index].occupied) {
-        TValue oldValue = this->elems[index].value;
-        this->elems[index].occupied = false;
-        this->nrElems--;
-        return oldValue;
+    int iteration = 0;
+    int index = this->hash(key, iteration);
+    while(iteration < this->capacity){
+        if(this->elems[index].occupied && this->elems[index].key == key) {
+            TValue oldValue = this->elems[index].value;
+            this->elems[index].occupied = false;
+            this->nrElems--;
+            return oldValue;
+        } else {
+            iteration++;
+            index = this->hash(key, iteration);
+        }
     }
 
     // if the element is not in the map, return NULL_TVALUE

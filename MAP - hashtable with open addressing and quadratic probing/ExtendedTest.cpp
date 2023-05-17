@@ -106,7 +106,6 @@ void testRemove() {
 	}
 	for (int i = -100; i < 100; i++) { 
 		if (i % 2 == 0) {
-            printf("i = %d\n", i);
 			assert(m.remove(i) == i);
 		}
 		else {
