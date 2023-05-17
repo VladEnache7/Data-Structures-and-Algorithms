@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MAP___hashtable_with_open_addressing_and_quadratic_probing",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MAP___hashtable_with_open_addressing_and_quadratic_probing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MAP___hashtable_with_open_addressing_and_quadratic_probing-Debug-f31fa26e0bea0d6b1de4.json",
+					"name" : "MAP___hashtable_with_open_addressing_and_quadratic_probing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MAP - hashtable with open addressing and quadratic probing/cmake-build-debug",
+		"source" : "C:/Users/Admin/Documents/GitHub/Data Structures and Algorithms/MAP - hashtable with open addressing and quadratic probing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

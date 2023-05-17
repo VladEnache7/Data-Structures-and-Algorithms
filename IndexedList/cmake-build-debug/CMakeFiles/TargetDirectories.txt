@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/GitHub/Data Structures and Algorithms/IndexedList/cmake-build-debug/CMakeFiles/IndexedList.dir
+C:/Users/Admin/Documents/GitHub/Data Structures and Algorithms/IndexedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/GitHub/Data Structures and Algorithms/IndexedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
