@@ -6,7 +6,7 @@ Map::Map() {
 	this->capacity = 1024;
     this->nrElems = 0;
     this->elems = new pair[this->capacity];
-}
+} // Theta(1)
 
 int Map::hash(TKey key, int iteration) const {
     double A = 0.6180339887;
@@ -20,7 +20,7 @@ int Map::hash(TKey key, int iteration) const {
         key = ~key + 1;
 
     return (int)(floor(this->capacity * fmod(key * A, 1)) + c * iteration + c * iteration * iteration) % this->capacity;
-}
+} // Theta(1)
 
 void Map::resize() {
     // double the capacity
@@ -45,7 +45,7 @@ void Map::resize() {
     // delete the old array and set the new one
     delete[] this->elems;
     this->elems = newElems;
-}
+} // Theta(capacity)
 
 
 TValue Map::add(TKey key, TValue newValue){
@@ -73,7 +73,7 @@ TValue Map::add(TKey key, TValue newValue){
     this->nrElems++;
 
     return NULL_TVALUE;
-}
+} // O(capacity)
 
 TValue Map::search(TKey key) const{
 	// if the element is in the map, return its value
@@ -88,7 +88,7 @@ TValue Map::search(TKey key) const{
 
     // if the element is not in the map, return NULL_TVALUE
     return NULL_TVALUE;
-}
+} // O(capacity)
 
 TValue Map::remove(TKey key){
 	// if the element is in the map, remove it and return its value
@@ -108,24 +108,34 @@ TValue Map::remove(TKey key){
 
     // if the element is not in the map, return NULL_TVALUE
     return NULL_TVALUE;
-}
+} // O(capacity)
 
 
 int Map::size() const {
 	return this->nrElems;
-}
+}   // Theta(1)
 
 bool Map::isEmpty() const{
     return this->nrElems == 0;
-}
+} // Theta(1)
 
 MapIterator Map::iterator() const {
 	return MapIterator(*this);
-}
+} // Theta(1)
 
 Map::~Map() {
     delete[] this->elems;
-}
+} // Theta(1)
+
+void Map::filter(Condition condition) {
+    // going through all the elements and remove those that does not respect the condition
+    MapIterator mi = this->iterator();
+    while(mi.valid()){
+        if(!condition(mi.getCurrent().first))
+            this->remove(mi.getCurrent().first);
+        mi.next();
+    }
+} // O(capacity)
 
 
 

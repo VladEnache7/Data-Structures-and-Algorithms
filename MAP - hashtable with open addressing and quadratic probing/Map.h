@@ -14,6 +14,8 @@ class MapIterator;
 
 #define LoadFactor 0.7
 
+typedef bool (*Condition)(TKey);
+
 class Map {
 	//DO NOT CHANGE THIS PART
 	friend class MapIterator;
@@ -64,6 +66,11 @@ class Map {
 	// destructor
 	~Map();
 
+
+    // bonus problem
+
+    // keeps in the Map only those pairs whose key respects the given condition
+    void filter(Condition condition);
 };
 
 
